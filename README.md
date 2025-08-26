@@ -1,5 +1,7 @@
-Ảnh chụp giao diện dự án: 
+Ảnh chụp giao diện dự án:
+
 PC:
+
 <img width="2241" height="2602" alt="image" src="https://github.com/user-attachments/assets/08fa79ad-81b4-4b32-b8a3-20429fc10612" />
 
 Responsive mobile: 
